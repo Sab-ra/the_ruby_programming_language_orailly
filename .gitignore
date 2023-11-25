@@ -1,0 +1,8 @@
+# Ignore system-specific files
+.DS_Store
+
+# Ignore Ruby-related files
+*.gem
+*.rbc
+.bundle
+vendor/
